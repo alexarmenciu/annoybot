@@ -1,2 +1,3 @@
-# annoybot
-discord bot to annoy my friends
+# Alex's Annoybot
+
+Discord bot to annoy my friends
