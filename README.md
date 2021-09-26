@@ -3,10 +3,10 @@
 A simple Discord bot to annoy my friends!
 
 ### Functionality
-My bot types along with you as you type so that you're never alone:
+My bot types along with you as you type so that you're never alone:<\br>
 ![typing](https://user-images.githubusercontent.com/65733434/134791994-2377daf7-87b4-4146-8238-eff3c60bc7bc.PNG)
 
-My bot also repeats your messages with your own username to blare out any messages you send to everyone on the channel using Discord's text to speech engine:
+My bot also repeats your messages with your own username to blare out any messages you send to everyone on the channel using Discord's text to speech engine:<\br>
 ![peaceful discord](https://user-images.githubusercontent.com/65733434/134791993-f57cf54e-9d9c-4301-a6df-38c7cdf60699.png)
 
 ### Tech
